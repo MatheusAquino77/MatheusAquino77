@@ -42,10 +42,5 @@
 
 <img src="https://raw.githubusercontent.com/MatheusAquino77/MatheusAquino77/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MatheusAquino77/count.svg?"  />
-</div>
 
 ###
